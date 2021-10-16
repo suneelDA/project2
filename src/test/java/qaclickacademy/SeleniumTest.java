@@ -22,5 +22,20 @@ public class SeleniumTest {
 		System.out.println("elementsUi");	
 	}
 	
+	@Test
+	public void babi()
+	{
+		System.out.println("babi");	
+	}
+	
+
+	@Test
+	public void akhil()
+	{
+		System.out.println("akhil");	
+		System.out.println("radha");
+		System.out.println("shanmuk");
+	}
+	
 	
 }
